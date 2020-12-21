@@ -18,6 +18,9 @@ Also add an option to create an event.
 - Lastly 'Add New Event' button is present on the main activity to add a new event which then redirects the user and asks the user to give necessary event details. 
 - After filling the details a new card is added on the events main page which shows that the new event is registered. 
 
+## Screenshots of the app- 
+<img src = "Screenshots/Screenshot_1608548612.png" width="225" height="400"> <img src = "Screenshots/Screenshot_1608550820.png" width="225" height="400" hspace="20"> <img src = "Screenshots/Screenshot_1608548689.png" width="225" height="400"> 
+
 ## Note - 
 
 There is scope of many improvements which can be done in the app if there is a database of the events and we integrate the database into the app. 

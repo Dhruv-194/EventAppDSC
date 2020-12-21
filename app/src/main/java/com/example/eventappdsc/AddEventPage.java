@@ -39,7 +39,7 @@ public class AddEventPage extends AppCompatActivity {
                 intent.putExtra("FormName",name);
                 intent.putExtra("FormDesc", desc);
                 intent.putExtra("Check", check);
-                Toast.makeText(AddEventPage.this, name, Toast.LENGTH_SHORT).show();
+                Toast.makeText(AddEventPage.this, name + " " + "added", Toast.LENGTH_SHORT).show();
                 startActivity(intent);
             }
         });

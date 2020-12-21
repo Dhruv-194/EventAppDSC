@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name ="color1">#424549</color>
+    <color name ="color2">#796e25</color>
+    <color name ="color3">#59717c</color>
+
+    <color name="time">#1BB294</color>
+    <color name="date">#A1AAB5</color>
+    <color name="joinevent">#BDEFF2</color>
+    <color name="lightGrey">#D8D8D8</color>
+
+</resources>

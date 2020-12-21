@@ -11,9 +11,13 @@ Also add an option to create an event.
 ## My Attempt - 
  
 - The App includes a material design CardView of each event.
-- The App has the required information of speaker, event description, date and time. 
-- Obviously the data added into the app is hardcoded because there is no database for reference from where to take the details of event. 
-- On clicking any card more information of the event can be viewed. 
+- The App has the required information of speaker, event description, date and time etc.
+- Obviously the data added into the app is hardcoded because there is no database for reference, from where the data of the details of the event can be taken. 
+- On clicking any card, more information of the event can be viewed. 
 - A button is also present in the details section of the event which redirects the user to the event page. 
-- Lastly 'Add New Event' button is present on the main activity which asks the user to give necessary event details. 
+- Lastly 'Add New Event' button is present on the main activity to add a new event which then redirects the user and asks the user to give necessary event details. 
 - After filling the details a new card is added on the events main page which shows that the new event is registered. 
+
+## Note - 
+
+There is a scope of many improvements which can be done in the app if there is a database of the events and we integrate the database into the app. 

@@ -5,7 +5,7 @@
 ## Task - 
 > As DSC VITB chapter is one of the biggest chapters in our college and we are hosting around 5-6 events every month. So you need to design a android app in which all the users get all the information about upcoming events. 
 
->You need to design the app in such a way so that every event has its own card and when the user opens the cards, he will get all details such as meeting link, time, Speaker’s detail, location of event …. Etc. 
+> You need to design the app in such a way so that every event has its own card and when the user opens the cards, he will get all details such as meeting link, time, Speaker’s detail, location of event …. Etc. 
 Also add an option to create an event. 
 
 ## My Attempt - 
@@ -20,4 +20,4 @@ Also add an option to create an event.
 
 ## Note - 
 
-There is a scope of many improvements which can be done in the app if there is a database of the events and we integrate the database into the app. 
+There is scope of many improvements which can be done in the app if there is a database of the events and we integrate the database into the app. 

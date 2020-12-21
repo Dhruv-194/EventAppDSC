@@ -21,6 +21,9 @@ Also add an option to create an event.
 ## Screenshots of the app- 
 <img src = "Screenshots/Screenshot_1608548612.png" width="225" height="400"> <img src = "Screenshots/Screenshot_1608550820.png" width="225" height="400" hspace="20"> <img src = "Screenshots/Screenshot_1608548689.png" width="225" height="400"> 
 
+## Google Drive link for the apk - 
+https://drive.google.com/drive/folders/1SUzkvrWuCzY4ahI3ws80Sad0J5hYJi5-?usp=sharing
+
 ## Note - 
 
 There is scope of many improvements which can be done in the app if there is a database of the events and we integrate the database into the app. 
